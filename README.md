@@ -9,7 +9,7 @@ Using this on a user account is against [Discord ToS](https://discord.com/terms)
 # Need your token?
 Run code (Discord Console - [Ctrl + Shift + I])
 
-```
+```js
 window.webpackChunkdiscord_app.push([
   [Math.random()],
   {},
