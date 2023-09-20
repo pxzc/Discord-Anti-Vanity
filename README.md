@@ -7,8 +7,7 @@ As of December 2022, Discord bots lost access to the vanity endpoint making anti
 Using this on a user account is against [Discord ToS](https://discord.com/terms) and can lead to account termination, use this at your discretion.
 
 # Need your token?
-
-> Run code (Discord Console - [Ctrl + Shift + I])
+Run code (Discord Console - [Ctrl + Shift + I])
 
 ```
 window.webpackChunkdiscord_app.push([
